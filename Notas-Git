@@ -1,0 +1,11 @@
+Para que Git haga un seguimiento de los archivos del directorio seleccionado, o parte de ellos, y hacer un respaldo de ellos, el primer comando a utilizar es GIT INIT
+
+Tanto si vamos a hacer seguimiento a todos los archivos como se vamos a hacer seguimiento a alguno/algunos --> GIT ADD (nombre del archivo)
+
+Para trasladar del área de ensayo los archivos de los que se hace seguimiento, al repositorio local --> GIT COMMIT
+
+Para ver el estado de los archivos del directorio en el que hemos inicializado git --> GIT STATUS -S
+
+Los interrogantes en rojo significan que los archivos NO están siendo sometidos a seguimiento 
+
+Tras hacer el GIT ADD a uno/varios archivos, los interrogantes rojos cambian por una A verde --> el archivo está en la Staging Area, ha sido agregado
