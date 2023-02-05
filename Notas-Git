@@ -9,3 +9,7 @@ Para ver el estado de los archivos del directorio en el que hemos inicializado g
 Los interrogantes en rojo significan que los archivos NO están siendo sometidos a seguimiento 
 
 Tras hacer el GIT ADD a uno/varios archivos, los interrogantes rojos cambian por una A verde --> el archivo está en la Staging Area, ha sido agregado
+
+Para pasar del staging area y almacenar ya el archivo/archivos que está siguiendo Git al repositorio local de este --> GIT COMMIT -M " "
+
+Tras el COMMIT al hacer STATUS -S ya no sale el archivo
