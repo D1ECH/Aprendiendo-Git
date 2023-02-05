@@ -21,3 +21,5 @@ Para ver todas las instantáneas/commits del repositorio local --> git log --one
 Para restaurar una versión anterior --> git reset --hard [código de la instantánea]
 
 OJO --> para hacer un ADD y COMMIT a la vez --> GIT COMMIT -AD " "
+
+Para modificar la descripción de un COMMIT --> git commit --amend (el cual abre VIM), una vez dentro de VIM --> :i - editar, esc - salir de edición, :wq - guardar y salir
