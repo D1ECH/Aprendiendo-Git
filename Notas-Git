@@ -15,3 +15,5 @@ Para pasar del staging area y almacenar ya el archivo/archivos que está siguien
 Tras el COMMIT al hacer STATUS -S ya no sale el archivo
 
 Cuando hacemos un cambio, ya sea en el Staging area o en el respositorio local, aparece una M al ver el estado en rojo --> tenemos que volver a hacer ADD para poder hacer COMMIT
+
+Para ver todas las instantáneas/commits del repositorio local --> git log --oneline
