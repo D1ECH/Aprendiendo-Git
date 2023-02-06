@@ -23,3 +23,5 @@ Para restaurar una versión anterior --> git reset --hard [código de la instant
 OJO --> para hacer un ADD y COMMIT a la vez --> GIT COMMIT -AD " "
 
 Para modificar la descripción de un COMMIT --> git commit --amend (el cual abre VIM), una vez dentro de VIM --> :i - editar, esc - salir de edición, :wq - guardar y salir
+
+Se puede modificar archivos desde github y para sincronizarlo con el almacenamiento local --> GIT PULL
