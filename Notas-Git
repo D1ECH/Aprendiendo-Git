@@ -29,3 +29,5 @@ Se puede modificar archivos desde github y para sincronizarlo con el almacenamie
 Se pueden añadir tags al proyecto para indicar el final de una versión y así saber que pese a que puede actualizarse, hasta ahí estaría "terminado" --> git tag [etiqueta] -m " "
 
 Vamos a crear una rama para hacer pruebas en el fichero prueba.txt --> git branch [nombre]
+
+Para movernos de rama --> git checkout [nombre branch]
