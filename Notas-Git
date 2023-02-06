@@ -31,3 +31,5 @@ Se pueden añadir tags al proyecto para indicar el final de una versión y así 
 Vamos a crear una rama para hacer pruebas en el fichero prueba.txt --> git branch [nombre]
 
 Para movernos de rama --> git checkout [nombre branch]
+
+Para hacer un merge, debemos estar en la rama main --> git merge [nombre de la rama a fusionar]
